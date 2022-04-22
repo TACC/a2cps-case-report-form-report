@@ -1,5 +1,5 @@
-# Generic Template Reporting for the A2CPS program
-Docker container of Dash App to display A2CPS trial Generic Template reporting metrics.
+# A2CPS Case Report Form Report for the A2CPS program
+Docker container of Dash App to display A2CPS Case Report Form Report reporting metrics.
 
 
 ## Version History
